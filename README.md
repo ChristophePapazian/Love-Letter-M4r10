@@ -20,12 +20,19 @@ Chaque joueur pioche 1 carte et la garde secrète. Cette carte représente le pe
 
 ### Déroulement du jeu
 Chaque joueur, à tour de rôle, pioche une (seconde) carte et l'ajoute à sa main.
-Il choisi ensuite une de ses deux cartes, la joue devant lui face visible et en applique les effets. Les cartes jouées restent devant chacun des joueurs dans l'ordre où elles ont été jouées.
+Il choisi ensuite une de ses deux cartes, la joue (il la défausse) devant lui face visible et en applique les effets. Les cartes jouées restent devant chacun des joueurs dans l'ordre où elles ont été jouées.
 Une fois les effets de la cartes appliqués, c'est au joueur suivant de jouer.
-Si un joueur est éliminé de la manche, il défausse sa carte face visible, mais ne pioche pas de nouvelle carte. 
+Si un joueur est éliminé de la manche, il défausse sa carte face visible, mais ne pioche pas de nouvelle carte.
+
+Une carte défaussée par l'effet d'une autre carte n'est pas jouée (son effet n'est pas appliqué, sauf pour la princesse Peach, qui vous élimine).
 
 ### Fin de jeu
-Lorsqu'un joueur pioche la dernière carte, il joue son tour et la manche se termine. Si un joueur doit piocher une carte lors du dernier tour, il pioche une des cartes écartées en début de partie.
+Lorsqu'un joueur pioche la dernière carte, il joue son tour et la manche se termine. Si un joueur doit piocher une carte lors du dernier tour, il pioche une des cartes écartées en début de partie. À la fin du dernier tour (ou si tous les joueurs ont été éliminés sauf un), celui qui reste en lice et a la carte en main de plus grand rang gagne. En cas d'égalité, on utilise : 
+
+1. Plus grand nombre de cartes défaussées
+2. Plus grand rang défaussé
+3. Somme des rangs défaussés
+
 Love Letter se joue en plusieurs manches, chaque manche représentant une journée, à la fin de la journée la princesse lit la lettre qui lui a été apportée, le joueur gagne alors un point.
 Lorsqu'elle a reçu un certain nombre de lettres du même joueur, elle en tombe amoureuse et le joueur en question gagne la partie.
 Le nombre de lettres nécessaires pour conquérir le cœur de princesse dépend du nombre de joueurs. 
