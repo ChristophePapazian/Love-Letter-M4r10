@@ -1,6 +1,7 @@
 # Images
 Les images sont en 600 dpi pour être imprimées en poker size (2.5''x3.5'') 
 *impression pleine page avec débordement pour découpe*
+
 ![Poker Size Image]
 (https://octodex.github.com/images/yaktocat.png)
 
