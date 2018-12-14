@@ -1,6 +1,8 @@
 # Love-Letter-M4r10
 Jeu Love Letter avec vos personnages préférés de N1ntend0
 
+Images composées par Christophe Papazian (Twitter : @C_Papazian)
+
 ## Régles du jeu : 
 
 D'après un jeu de Seiji Kanai
