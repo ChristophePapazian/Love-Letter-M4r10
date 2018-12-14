@@ -11,7 +11,7 @@ Finir le jeu (sans être éliminé !) avec la carte ayant le rang le plus élev�
 
 ### Mise en place
 Mélangez les 16 (ou plus) cartes afin de former une pioche, prendre la première carte, sans la regarder et la retirer du jeu.
-*On ajoute 4 cartes spécifiques pour chaque joueur au dessus de 4, jusqu'à utiliser toutes les 32 cartes à 8 joueurs.
+*On ajoute 4 cartes spécifiques pour 5 joueurs, 4 autres à 6, 4 encore à 7 et 6 cartes de plus à 8 jusqu'à utiliser toutes les 34 cartes à 8 joueurs.
 Se référer au tableau des cartes pour savoir lesquelles sont dans la partie.
 Les cartes optionnelles ont une pièces en bas à droite (par exemple la toadette avec une pièce '8' en bas à droite ne doit normalement être utilisée que pour une partie à 8 joueurs).*
 
