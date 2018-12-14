@@ -28,4 +28,4 @@ Si un joueur est éliminé de la manche, il défausse sa carte face visible, mai
 Lorsqu'un joueur pioche la dernière carte, il joue son tour et la manche se termine. Si un joueur doit piocher une carte lors du dernier tour, il pioche une des cartes écartées en début de partie.
 Love Letter se joue en plusieurs manches, chaque manche représentant une journée, à la fin de la journée la princesse lit la lettre qui lui a été apportée, le joueur gagne alors un point.
 Lorsqu'elle a reçu un certain nombre de lettres du même joueur, elle en tombe amoureuse et le joueur en question gagne la partie.
-Le nombre de lettres nécessaires pour conquérir le cœur de princesse dépend du nombre de joueurs. (2 joueurs = 7 points ; 3 joueurs = 5 points ; 4 à 6 joueurs = 4 points; 7,8 joueurs = 3 points)
+Le nombre de lettres nécessaires pour conquérir le cœur de princesse dépend du nombre de joueurs. (2 joueurs = 7 points ; 3 joueurs = 5 points ; 4 à 6 joueurs = 4 points; 7 à 8 joueurs = 3 points)
